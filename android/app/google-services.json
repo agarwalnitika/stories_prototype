@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362127842115",
+    "firebase_url": "https://pratilipi-ba929.firebaseio.com",
+    "project_id": "pratilipi-ba929",
+    "storage_bucket": "pratilipi-ba929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362127842115:android:1d79a9539dcf61c249adf6",
+        "android_client_info": {
+          "package_name": "example.com.pratilipi_reading_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362127842115-oam90i606hbimg4qp87nbj5rqdn98e0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYgPrpcMMWD3PKFAZiqZp3XBZPQGpayR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362127842115-oam90i606hbimg4qp87nbj5rqdn98e0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
