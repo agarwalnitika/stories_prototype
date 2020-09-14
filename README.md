@@ -4,11 +4,11 @@ Prototype for reading stories.
 
 # Set Up :
 All commands needed to set up and execute said code:
-  Technology Used:
-  	1. Framework: Flutter (Used Version: 1.12.13+hotfix.8 • channel stable)
-    	2. Language Used: Dart (Used Version: 2.7.0)
-    	3. IDE Used: Android Studio (Used Version: 3.4)
-	4. Firebase (for data)
+	Technology Used:
+  		1. Framework: Flutter (Used Version: 1.12.13+hotfix.8 • channel stable)
+    		2. Language Used: Dart (Used Version: 2.7.0)
+    		3. IDE Used: Android Studio (Used Version: 3.4)
+		4. Firebase (for data)
    
   Various components of the structure of the application are explained here −
     	1)android − Auto generated source code to create android application 2) ios − Auto generated source code to create ios application
